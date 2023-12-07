@@ -1,20 +1,8 @@
 # sqlmodel-alembic-tuto
 
-Option 1 (Recommended)
+Some notebooks to quickly experiment and learn about **sqlmodel** and **alembic**
+Run the notebook on Google colab:
+  - sqlmodel-lab.ipynb
+  - alembic-lab.ipynb
 
-Use Google colab notebook to run 
-
-Option 2 
-
-Run the workshop locally. For those who are familiar with python and jupyter notebook setup.
-
-## Setup 
-
-Create virtual environment
-
-`python -m venv workshop-venv`
-
-Install libraries
-
-`pip install -r requirements.txt`
-
+Solutions can be found in the notebooks without the suffixe -lab.
